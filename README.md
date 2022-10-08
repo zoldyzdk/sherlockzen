@@ -6,7 +6,7 @@ Sou de **Caruaru**, Pernambuco
 
 - Estudando Elixir a partir deste [Roadmap](https://dev.to/cyytrus/elixir-roadmap-jfh)
 
-- Em outubro começo em Ciências da Computação na Descomplica
+- Cursando Ciência da Computação na Descomplica
 
 ### Me encontre por ai 🌎
 
