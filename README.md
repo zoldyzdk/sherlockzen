@@ -2,7 +2,7 @@
 Sou de **Caruaru**, Pernambuco
 
 ### O que tenho estudado 📚
-- Estudando front-end pela Udemy
+- Estudando front-end: HTML, CSS e JavaScript
 
 - Estudando Elixir a partir deste [Roadmap](https://dev.to/cyytrus/elixir-roadmap-jfh)
 
