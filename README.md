@@ -2,11 +2,7 @@
 Sou de **Caruaru**, Pernambuco
 
 ### O que tenho estudado 📚
-- Estudando front-end: HTML, CSS e JavaScript
-
-- Estudando Elixir a partir deste [Roadmap](https://dev.to/cyytrus/elixir-roadmap-jfh)
-
-- Estudando Rust a partir da [documentação](https://rust-br.github.io/rust-book-pt-br)
+- Front-end: HTML, CSS e JavaScript
 
 - Cursando Ciência da Computação na Descomplica
 
