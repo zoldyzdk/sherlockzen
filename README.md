@@ -2,7 +2,7 @@
 Sou de **Caruaru**, Pernambuco
 
 ### O que tenho estudado 📚
-- Front-end: HTML, CSS e JavaScript
+- Front-end: HTML, CSS, JavaScript, React e TypeScript 
 
 - Cursando Ciência da Computação na Descomplica
 
