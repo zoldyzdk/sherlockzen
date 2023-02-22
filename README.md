@@ -1,5 +1,5 @@
 ### Oi, me chamo Hewerton ✌️
-Sou de **Caruaru**, Pernambuco
+Sou de Pernambuco
 
 ### O que tenho estudado 📚
 - Front-end: HTML, CSS, JavaScript, React e TypeScript 
