@@ -9,7 +9,7 @@ Sou de Pernambuco
 ### Me encontre por ai 🌎
 
 [Twitter](https://twitter.com/hewertonsoares)<br>
-[Linkedin](www.linkedin.com/in/hewertonsoares)
+[Linkedin](https://linkedin.com/in/hewertonsoares)
 
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=sherlockzen&layout=compact&langs_count=6&theme=cobalt2' />
