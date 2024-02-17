@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hewerton</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
-- 💬 You can ask me about **React, Typescript, CSS, Tailwind, Javascript, Node.js and Elixir**.
+- 💬 You can ask me about **React, Typescript, CSS, Tailwind, Javascript, Node.js and Go**.
 
 - 📫 Let's talk some day, there is my links: http://hewerton.me/links
 
